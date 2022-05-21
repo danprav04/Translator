@@ -1,2 +1,2 @@
 # Translator
- Translates what you say from english to russain when you press F7
+ Translates what you say from english to russian when you press F7
