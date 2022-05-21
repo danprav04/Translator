@@ -23,12 +23,7 @@ def main():
 			except sr.RequestError as e:
 				print(e)
 		else:
-			time.sleep(0.1)
-
-def AutoCloseMessageBoxW(text, title, close_until_seconds):
-       t = threading.Thread(target=worker,args=(title,close_until_seconds))
-       t.start()
-       ctypes.windll.user32.MessageBoxA(0, text, title, 0)	
+			time.sleep(0.1)	
 
 
 if __name__ == "__main__":
