@@ -4,7 +4,7 @@
 block_cipher = None
 
 
-a = Analysis(['Translator.py'],
+a = Analysis(['translator.py'],
              pathex=['C:\\Users\\DANPRAV\\OneDrive\\Документы\\Python2.0\\Translator'],
              binaries=[],
              datas=[],
@@ -22,7 +22,7 @@ exe = EXE(pyz,
           a.scripts,
           [],
           exclude_binaries=True,
-          name='Translator',
+          name='translator',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,
@@ -35,4 +35,4 @@ coll = COLLECT(exe,
                strip=False,
                upx=True,
                upx_exclude=[],
-               name='Translator')
+               name='translator')
