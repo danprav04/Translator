@@ -230,3 +230,4 @@ hey hey hey test test test hey - эй эй эй тест тест тест эй
 
 bestest - лучший
 translate the word test test - перевести слово тест тест
+translate the word test - переведи слово тест
