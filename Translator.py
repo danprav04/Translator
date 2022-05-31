@@ -27,11 +27,14 @@ def main():
 				res = tr.translate(rs, src='en', dest='ru')
 				print(res.text)
 
+				orig = rs
+				translated = res.text
+
 				file_object = open(path, 'a')
-				file_object.write(f"\n{rs} - {res.text}")
+				file_object.write(f"\n{orig} - {translated}")
 				file_object.close()
 
-				ctypes.windll.user32.MessageBoxW(0, f"{rs}\n{res.text}", "Translator", 0)
+				ctypes.windll.user32.MessageBoxW(0, f"{orig}\n{translated}", "Translator", 0)
 
 			except sr.UnknownValueError:
 				print("Could not understand audio")
