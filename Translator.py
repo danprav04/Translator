@@ -1,5 +1,6 @@
 import speech_recognition as sr
-from googletrans import Translator as translator
+# from googletrans import Translator as translator
+import deepl
 import keyboard
 import ctypes
 import time
@@ -8,7 +9,8 @@ import os, subprocess
 import _thread as thread
 
 r = sr.Recognizer()
-tr = translator()
+# tr = translator()
+deepL = deepl.Translator(auth_key) 
 now = datetime.now()
 path = "C://Users//DANPRAV//OneDrive//Документы//Python2.0//Translator//TranslatedWords.txt"
 
@@ -27,10 +29,12 @@ def main():
 				rs = r.recognize_google(audio).lower()
 				print(rs)
 
-				# Translate Via Google Translate
-				res = tr.translate(rs, src='en', dest='ru')
+				# # Translate Via Google Translate
+				# res = tr.translate(rs, src='en', dest='ru')
+				# Translate Via DeepL
+				res = translator.translate_text(text, target_lang=target_language) 
 				print(res.text)
-
+				
 				# Save To Variables
 				orig = rs
 				translated = res.text
@@ -39,8 +43,8 @@ def main():
 				file_object = open(path, 'a')
 				file_object.write(f"\n{orig} - {translated}")
 				file_object.close()
-				# Push To Github
-				thread.start_new_thread( push_to_git, ( ) )
+				# # Push To Github
+				# thread.start_new_thread( push_to_git, ( ) )
 
 				# Show Window With The Translation
 				ctypes.windll.user32.MessageBoxW(0, f"{orig}\n{translated}", "Translator", 0)
@@ -54,8 +58,6 @@ def main():
 
 
 def push_to_git():
-	CREATE_NO_WINDOW = 0x08000000
-	subprocess.call('taskkill /F /IM exename.exe', creationflags=CREATE_NO_WINDOW)
 	os.system('cd C://Users//DANPRAV//OneDrive//Документы//Python2.0//Translator')
 	os.system('git add .')
 	os.system('git commit -m "Translation added')
