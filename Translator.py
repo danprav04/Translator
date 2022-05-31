@@ -35,7 +35,7 @@ def main():
 				translated = res.text
 
 				# Save Translation To File
-				with open(path, 'w', encoding='utf-8') as f:
+				with open(path, 'a', encoding='utf-8') as f:
    					f.write(f"\n{orig} - {translated}")
 				# # Push To Github
 				thread.start_new_thread( push_to_git, ( ) )
