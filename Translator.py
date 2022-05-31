@@ -4,7 +4,7 @@ import keyboard
 import ctypes
 import time
 from datetime import datetime
-import os
+import os, subprocess
 import _thread as thread
 
 r = sr.Recognizer()
@@ -40,10 +40,7 @@ def main():
 				file_object.write(f"\n{orig} - {translated}")
 				file_object.close()
 				# Push To Github
-				#thread.start_new_thread( push_to_git, ( ) )
-				os.system('git add .')
-				os.system('git commit -m "Translation added')
-				os.system('git push origin')
+				thread.start_new_thread( push_to_git, ( ) )
 
 				# Show Window With The Translation
 				ctypes.windll.user32.MessageBoxW(0, f"{orig}\n{translated}", "Translator", 0)
@@ -57,6 +54,9 @@ def main():
 
 
 def push_to_git():
+	CREATE_NO_WINDOW = 0x08000000
+	subprocess.call('taskkill /F /IM exename.exe', creationflags=CREATE_NO_WINDOW)
+	os.system('cd C://Users//DANPRAV//OneDrive//Документы//Python2.0//Translator')
 	os.system('git add .')
 	os.system('git commit -m "Translation added')
 	os.system('git push origin')
