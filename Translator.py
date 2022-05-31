@@ -5,6 +5,7 @@ import ctypes
 import time
 from datetime import datetime
 import os
+import _thread as thread
 
 r = sr.Recognizer()
 tr = translator()
@@ -39,10 +40,7 @@ def main():
 				file_object.write(f"\n{orig} - {translated}")
 				file_object.close()
 				# Push To Github
-				# os.system('cmd /k "cd C://Users//DANPRAV//OneDrive//Документы//Python2.0//Translator"')
-				os.system('git add .')
-				os.system('git commit -m "Translation added')
-				os.system('git push origin')
+				thread.start_new_thread( push_to_git, ( ) )
 
 				# Show Window With The Translation
 				ctypes.windll.user32.MessageBoxW(0, f"{orig}\n{translated}", "Translator", 0)
@@ -53,6 +51,12 @@ def main():
 				print(e)
 		else:
 			time.sleep(0.1)	
+
+
+def push_to_git():
+	os.system('git add .')
+	os.system('git commit -m "Translation added')
+	os.system('git push origin')
 
 
 if __name__ == "__main__":
