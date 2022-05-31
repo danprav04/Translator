@@ -1,6 +1,5 @@
 import speech_recognition as sr
-# from googletrans import Translator as translator
-import deepl
+from googletrans import Translator as translator
 import keyboard
 import ctypes
 import time
@@ -9,10 +8,9 @@ import os, subprocess
 import _thread as thread
 
 r = sr.Recognizer()
-# tr = translator()
-deepL = deepl.Translator(auth_key) 
+tr = translator()
 now = datetime.now()
-path = "C://Users//DANPRAV//OneDrive//Документы//Python2.0//Translator//TranslatedWords.txt"
+path = "C://Users//DANPRAV//OneDrive//Документы//Python2.0//Translator//TranslatedWords.json"
 
 def main():
 	time_string = now.strftime("%d/%m/%Y %H:%M:%S")
@@ -30,10 +28,7 @@ def main():
 				print(rs)
 
 				# # Translate Via Google Translate
-				# res = tr.translate(rs, src='en', dest='ru')
-				# Translate Via DeepL
-				res = translator.translate_text(text, target_lang=target_language) 
-				print(res.text)
+				res = tr.translate(rs, src='en', dest='ru')
 				
 				# Save To Variables
 				orig = rs
@@ -44,7 +39,7 @@ def main():
 				file_object.write(f"\n{orig} - {translated}")
 				file_object.close()
 				# # Push To Github
-				# thread.start_new_thread( push_to_git, ( ) )
+				thread.start_new_thread( push_to_git, ( ) )
 
 				# Show Window With The Translation
 				ctypes.windll.user32.MessageBoxW(0, f"{orig}\n{translated}", "Translator", 0)
