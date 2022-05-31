@@ -38,7 +38,7 @@ def main():
 				# Save Translation To File
 				with open(path, 'a', encoding='utf-8') as f:
    					f.write(f"\n{orig} - {translated}")
-				# # Push To Github
+				# Push To Github
 				thread.start_new_thread( push_to_git, ( ) )
 
 				# Show Window With The Translation
