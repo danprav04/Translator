@@ -237,3 +237,4 @@ translate the word test - переведи слово тест
 
 bestest - лучший
 wow it seems like it's working - вау вроде работает
+yeah i got it nice - да, я получил это хорошо
