@@ -6,6 +6,7 @@ import time
 from datetime import datetime
 import os, subprocess
 import _thread as thread
+import subprocess
 
 r = sr.Recognizer()
 tr = translator()
@@ -52,9 +53,9 @@ def main():
 
 
 def push_to_git():
-	os.system('git add C://Users//DANPRAV//OneDrive//Документы//Python2.0//Translator')
-	os.system('git commit -m "Translation added')
-	os.system('git push origin')
+	subprocess.call(f'git add {path}', shell=True)
+	subprocess.call('git commit -m "Translation added', shell=True)
+	subprocess.call('git push origin', shell=True)
 
 
 if __name__ == "__main__":
