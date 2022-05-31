@@ -10,7 +10,7 @@ import _thread as thread
 r = sr.Recognizer()
 tr = translator()
 now = datetime.now()
-path = "C://Users//DANPRAV//OneDrive//Документы//Python2.0//Translator//TranslatedWords.json"
+path = "C://Users//DANPRAV//OneDrive//Документы//Python2.0//Translator//TranslatedWords.txt"
 
 def main():
 	time_string = now.strftime("%d/%m/%Y %H:%M:%S")
