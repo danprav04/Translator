@@ -52,8 +52,7 @@ def main():
 
 
 def push_to_git():
-	os.system('cd C://Users//DANPRAV//OneDrive//Документы//Python2.0//Translator')
-	os.system('git add .')
+	os.system('git add C://Users//DANPRAV//OneDrive//Документы//Python2.0//Translator')
 	os.system('git commit -m "Translation added')
 	os.system('git push origin')
 

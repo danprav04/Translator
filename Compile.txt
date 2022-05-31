@@ -1,0 +1,1 @@
+pyinstaller --noconsole C:\Users\DANPRAV\OneDrive\Документы\Python2.0\Translator\Translator.py
