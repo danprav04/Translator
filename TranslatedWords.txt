@@ -238,3 +238,4 @@ translate the word test - переведи слово тест
 bestest - лучший
 wow it seems like it's working - вау вроде работает
 yeah i got it nice - да, я получил это хорошо
+something you were too little too late - что-то вы слишком мало слишком поздно
