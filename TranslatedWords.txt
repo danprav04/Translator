@@ -107,3 +107,4 @@ greed - жадность
 
 translate something - перевести что-нибудь
 anywhere - в любом месте
+translate something - перевести что-нибудь
