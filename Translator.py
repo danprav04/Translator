@@ -4,6 +4,7 @@ import keyboard
 import ctypes
 import time
 from datetime import datetime
+import os
 
 r = sr.Recognizer()
 tr = translator()
@@ -21,19 +22,29 @@ def main():
 			with sr.Microphone() as source:
 				audio = r.listen(source)
 			try:
+				# Recognize Audio VTT
 				rs = r.recognize_google(audio).lower()
 				print(rs)
 
+				# Translate Via Google Translate
 				res = tr.translate(rs, src='en', dest='ru')
 				print(res.text)
 
+				# Save To Variables
 				orig = rs
 				translated = res.text
 
+				# Save Translation To File
 				file_object = open(path, 'a')
 				file_object.write(f"\n{orig} - {translated}")
 				file_object.close()
+				# Push To Github
+				# os.system('cmd /k "cd C://Users//DANPRAV//OneDrive//Документы//Python2.0//Translator"')
+				os.system('git add .')
+				os.system('git commit -m "Translation added')
+				os.system('git push origin')
 
+				# Show Window With The Translation
 				ctypes.windll.user32.MessageBoxW(0, f"{orig}\n{translated}", "Translator", 0)
 
 			except sr.UnknownValueError:
