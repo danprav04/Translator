@@ -149,3 +149,4 @@ wisdom - мудрость
 insufficient - недостаточный
 expectations - ожидания
 betray - предавать
+eta se - эта се
