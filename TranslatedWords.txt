@@ -148,3 +148,4 @@ it's raw results - это сырые результаты
 wisdom - мудрость
 insufficient - недостаточный
 expectations - ожидания
+betray - предавать
