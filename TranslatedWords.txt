@@ -104,3 +104,4 @@ translate - перевести
 translate something - перевести что-нибудь
 adventurous - предприимчивый
 less picky - менее разборчивый
+bountiful feast - обильный пир
