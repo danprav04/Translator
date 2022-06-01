@@ -111,3 +111,4 @@ considerate - внимательный
 big sis - старшая сестра
 okay so - хорошо, итак
 occasion - повод
+creature - существо
