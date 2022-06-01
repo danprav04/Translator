@@ -135,3 +135,4 @@ feeble excuse - слабое оправдание
 
 false interpretations - ложные толкования
 hosting a patterns - размещение шаблонов
+abbreviation - Сокращенное название
