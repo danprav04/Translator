@@ -284,3 +284,4 @@ translate translate - перевести перевести
 okay let's try the translation - ладно попробуем перевод
 translate the word - перевести слово
 translated - переведено
+translate the word - перевести слово
