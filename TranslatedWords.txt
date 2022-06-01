@@ -122,3 +122,4 @@ rappelling - спуск по веревке
 do stuff - делать вещи
 those open my room - те открывают мою комнату
 assertive - напористый
+be vigilant - быть бдительным
