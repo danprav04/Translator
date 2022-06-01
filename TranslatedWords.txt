@@ -146,3 +146,4 @@ the results - результаты, достижения
 resolve - решать
 it's raw results - это сырые результаты
 wisdom - мудрость
+insufficient - недостаточный
