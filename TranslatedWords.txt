@@ -123,3 +123,4 @@ do stuff - делать вещи
 those open my room - те открывают мою комнату
 assertive - напористый
 be vigilant - быть бдительным
+spiteful - злобный
