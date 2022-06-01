@@ -258,3 +258,4 @@ it fascinating - это увлекательно
 defied the will - бросил вызов воле
 undefined - неопределенный
 starvation - голодание
+wrath - гнев
