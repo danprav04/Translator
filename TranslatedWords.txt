@@ -253,3 +253,4 @@ translate - перевести
 
 ok google - хорошо гугл
 regular - обычный
+fragile - хрупкий
