@@ -260,3 +260,4 @@ undefined - неопределенный
 starvation - голодание
 wrath - гнев
 lamented lamented lamented lamented lamented - оплакивал оплакивал оплакивал оплакивал оплакивал
+lamented - оплакивал
