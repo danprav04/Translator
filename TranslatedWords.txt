@@ -137,3 +137,4 @@ false interpretations - ложные толкования
 hosting a patterns - размещение шаблонов
 abbreviation - Сокращенное название
 a deviation - отклонение
+miasma - миазмы
