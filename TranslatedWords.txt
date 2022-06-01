@@ -139,3 +139,4 @@ abbreviation - Сокращенное название
 a deviation - отклонение
 miasma - миазмы
 composer - композитор
+maintain your composure - сохраняй самообладание
