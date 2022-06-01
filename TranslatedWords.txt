@@ -266,3 +266,4 @@ warporn - варпорно
 embodiment - воплощение
 real m - область
 durham - Дарем
+desirable - желанный
