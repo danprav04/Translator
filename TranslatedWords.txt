@@ -285,3 +285,4 @@ okay let's try the translation - ладно попробуем перевод
 translate the word - перевести слово
 translated - переведено
 translate the word - перевести слово
+translate something just translated - перевести что-то только что переведенное
