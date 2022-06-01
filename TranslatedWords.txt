@@ -282,3 +282,4 @@ translate the word - перевести слово
 sanctuary - святилище
 translate translate - перевести перевести
 okay let's try the translation - ладно попробуем перевод
+translate the word - перевести слово
