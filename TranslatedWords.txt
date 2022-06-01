@@ -102,3 +102,4 @@ exaggeration - преувеличение
 
 translate - перевести
 translate something - перевести что-нибудь
+adventurous - предприимчивый
