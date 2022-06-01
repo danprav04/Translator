@@ -152,3 +152,4 @@ betray - предавать
 eta se - эта се
 he's - он
 ase - асе
+desperation - отчаяние
