@@ -222,3 +222,4 @@ forego - отказаться
 cowardly - трусливый
 hasde - Хасде
 haste - поспешность
+grieve - горевать
