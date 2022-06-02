@@ -235,3 +235,4 @@ temper - характер
 poutine - путин
 poutine - путин
 footing - опора
+convenient - удобный
