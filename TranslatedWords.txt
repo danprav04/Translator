@@ -246,3 +246,4 @@ it doesn't phase you - это не фазирует вас
 the cameron - Кэмерон
 yammering - болтливый
 melis - мелис
+hello - привет
