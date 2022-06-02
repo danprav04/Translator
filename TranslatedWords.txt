@@ -218,3 +218,4 @@ exceedingly - чрезвычайно
 exceedingly - чрезвычайно
 splendid - великолепный
 borrego - боррего
+forego - отказаться
