@@ -247,3 +247,4 @@ the cameron - Кэмерон
 yammering - болтливый
 melis - мелис
 hello - привет
+if ello - если привет
