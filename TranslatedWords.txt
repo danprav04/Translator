@@ -169,3 +169,4 @@ dorothy - Дороти
 feels toasty - чувствует себя поджаренным
 perceptive - проницательный
 constipation - запор
+swirling - кружащийся
