@@ -220,3 +220,4 @@ splendid - великолепный
 borrego - боррего
 forego - отказаться
 cowardly - трусливый
+hasde - Хасде
