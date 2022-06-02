@@ -211,3 +211,4 @@ shallow - мелкий
 shallow - мелкий
 vizually - визуально
 missouri - Миссури
+that's kind of measuring - это своего рода измерение
