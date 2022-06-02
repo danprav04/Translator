@@ -183,3 +183,4 @@ overwhelm - подавлять
 vulnerable - уязвимый
 liquor store - винный магазин
 apostille - апостиль
+apple store - Apple Store
