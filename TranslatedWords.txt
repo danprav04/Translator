@@ -180,3 +180,4 @@ strive - стремиться
 so shall - так будет
 overwhelmed - перегруженный
 overwhelm - подавлять
+vulnerable - уязвимый
