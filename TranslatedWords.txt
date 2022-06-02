@@ -210,3 +210,4 @@ superficial - поверхностный
 shallow - мелкий
 shallow - мелкий
 vizually - визуально
+missouri - Миссури
