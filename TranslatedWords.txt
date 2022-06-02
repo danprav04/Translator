@@ -236,3 +236,4 @@ poutine - путин
 poutine - путин
 footing - опора
 convenient - удобный
+mandatory - обязательный
