@@ -239,3 +239,4 @@ convenient - удобный
 mandatory - обязательный
 audacity - мужество
 audacity - мужество
+or die city - или умри город
