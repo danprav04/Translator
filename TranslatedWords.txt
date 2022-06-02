@@ -248,3 +248,4 @@ yammering - болтливый
 melis - мелис
 hello - привет
 if ello - если привет
+if - если
