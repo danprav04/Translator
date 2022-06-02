@@ -209,3 +209,4 @@ greed - жадность
 superficial - поверхностный
 shallow - мелкий
 shallow - мелкий
+vizually - визуально
