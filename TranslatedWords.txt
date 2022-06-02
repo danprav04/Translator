@@ -234,3 +234,4 @@ trampling - вытаптывание
 temper - характер
 poutine - путин
 poutine - путин
+footing - опора
