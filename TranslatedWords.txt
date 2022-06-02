@@ -224,3 +224,4 @@ hasde - Хасде
 haste - поспешность
 grieve - горевать
 rampling - сползание
+trampoline - батут
