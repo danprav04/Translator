@@ -188,3 +188,4 @@ artificial - искусственный
 artificial - искусственный
 artificial orchids - искусственные орхидеи
 imperative - императив
+inherited - унаследовал
