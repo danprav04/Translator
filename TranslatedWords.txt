@@ -225,3 +225,4 @@ haste - поспешность
 grieve - горевать
 rampling - сползание
 trampoline - батут
+trampoline - батут
