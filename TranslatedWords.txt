@@ -193,3 +193,4 @@ insufficient vessel - недостаточный сосуд
 insufficient - недостаточный
 frustrated - расстроенный
 being shooter - быть стрелком
+i'll always be a shooter - я всегда буду стрелком
