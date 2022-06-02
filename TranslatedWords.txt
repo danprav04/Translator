@@ -250,3 +250,4 @@ hello - привет
 if ello - если привет
 if - если
 fellow - парень
+malice - злоба
