@@ -223,3 +223,4 @@ cowardly - трусливый
 hasde - Хасде
 haste - поспешность
 grieve - горевать
+rampling - сползание
