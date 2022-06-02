@@ -192,3 +192,4 @@ inherited - унаследовал
 insufficient vessel - недостаточный сосуд
 insufficient - недостаточный
 frustrated - расстроенный
+being shooter - быть стрелком
