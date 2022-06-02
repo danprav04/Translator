@@ -237,3 +237,4 @@ poutine - путин
 footing - опора
 convenient - удобный
 mandatory - обязательный
+audacity - мужество
