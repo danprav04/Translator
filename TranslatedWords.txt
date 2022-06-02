@@ -238,3 +238,4 @@ footing - опора
 convenient - удобный
 mandatory - обязательный
 audacity - мужество
+audacity - мужество
