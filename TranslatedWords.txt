@@ -182,3 +182,4 @@ overwhelmed - перегруженный
 overwhelm - подавлять
 vulnerable - уязвимый
 liquor store - винный магазин
+apostille - апостиль
