@@ -282,3 +282,4 @@ despise - презирать
 benevolence - доброжелательность
 den netherlands - ден Нидерланды
 sympathy and the netherlands - сочувствие и Нидерланды
+razor - бритва
