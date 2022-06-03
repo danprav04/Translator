@@ -279,3 +279,4 @@ impatient - нетерпеливый
 insufficient - недостаточный
 spice - специя
 despise - презирать
+benevolence - доброжелательность
