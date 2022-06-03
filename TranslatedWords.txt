@@ -290,3 +290,4 @@ booker c - Букер С
 hypocrite - лицемер
 despise - презирать
 men cebu - мужчины себу
+lamentable - плачевный
