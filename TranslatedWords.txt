@@ -319,3 +319,4 @@ precisely - именно так
 bus - автобус
 boastful - хвастливый
 delusions - заблуждения
+devotion - преданность
