@@ -298,3 +298,4 @@ g. - грамм.
 stranded - застрявший
 aspired - стремился
 contempt - презрение
+karns - карнс
