@@ -321,3 +321,4 @@ boastful - хвастливый
 delusions - заблуждения
 devotion - преданность
 idiocy - идиотизм
+rectify - исправить
