@@ -272,3 +272,4 @@ depletion - истощение
 lingerie - женское белье
 alone dory - одна Дори
 irritating lingerie - раздражающее белье
+tile mate - плитка помощник
