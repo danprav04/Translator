@@ -299,3 +299,4 @@ stranded - застрявший
 aspired - стремился
 contempt - презрение
 karns - карнс
+scorned - презираемый
