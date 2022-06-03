@@ -253,3 +253,4 @@ fellow - парень
 malice - злоба
 halo reach - Halo Reach
 insufferable - невыносимый
+sites - места
