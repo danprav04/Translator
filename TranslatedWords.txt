@@ -259,3 +259,4 @@ team game - командная игра
 stinging - жгучий
 deal - иметь дело
 seal - печать
+celebration - праздник
