@@ -275,3 +275,4 @@ irritating lingerie - раздражающее белье
 tile mate - плитка помощник
 telmate - близкий друг
 stalemate - безвыходное положение
+impatient - нетерпеливый
