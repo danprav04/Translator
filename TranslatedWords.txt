@@ -324,3 +324,4 @@ idiocy - идиотизм
 rectify - исправить
 retribution - возмездие
 hasc - хаск
+rematch show - шоу-реванш
