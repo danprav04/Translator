@@ -296,3 +296,4 @@ curved - изогнутый
 carved - резной
 g. - грамм.
 stranded - застрявший
+aspired - стремился
