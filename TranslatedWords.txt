@@ -277,3 +277,4 @@ telmate - близкий друг
 stalemate - безвыходное положение
 impatient - нетерпеливый
 insufficient - недостаточный
+spice - специя
