@@ -297,3 +297,4 @@ carved - резной
 g. - грамм.
 stranded - застрявший
 aspired - стремился
+contempt - презрение
