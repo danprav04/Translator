@@ -278,3 +278,4 @@ stalemate - безвыходное положение
 impatient - нетерпеливый
 insufficient - недостаточный
 spice - специя
+despise - презирать
