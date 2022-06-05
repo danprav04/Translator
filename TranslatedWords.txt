@@ -340,3 +340,4 @@ debary - запрещать
 david byrne - Дэвид Бирн
 tavern - таверна
 stubborn - упрямый
+resemble - напоминать
