@@ -343,3 +343,4 @@ stubborn - упрямый
 resemble - напоминать
 endearing - милый
 reprimanded - выговор
+redemption - выкуп
