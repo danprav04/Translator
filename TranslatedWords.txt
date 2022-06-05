@@ -350,3 +350,4 @@ redemption - выкуп
 
 obnoxious - противный
 intimidating - пугающий
+red shield - красный щит
