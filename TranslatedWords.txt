@@ -339,3 +339,4 @@ captivated - плененный
 debary - запрещать
 david byrne - Дэвид Бирн
 tavern - таверна
+stubborn - упрямый
