@@ -342,3 +342,4 @@ tavern - таверна
 stubborn - упрямый
 resemble - напоминать
 endearing - милый
+reprimanded - выговор
