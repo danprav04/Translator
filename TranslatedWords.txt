@@ -353,3 +353,4 @@ intimidating - пугающий
 red shield - красный щит
 she's fragile - она хрупкая
 realm - область
+kenosis - кенозис
