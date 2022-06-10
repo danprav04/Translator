@@ -1,3 +1,3 @@
 git add .
-git commit -m "Translation added"
+git commit -m "Pbat"
 git push origin
