@@ -447,3 +447,4 @@ ended - закончился
 i got a handed - я получил руку
 i go to hand it to you - я иду, чтобы передать это вам
 annihilate - уничтожить
+extinguished - погашен
