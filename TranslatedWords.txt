@@ -437,3 +437,4 @@ withdraw - отзывать
 
 pep talk - напутствие
 superstereo - суперстерео
+used superstereo - подержанный суперстерео
