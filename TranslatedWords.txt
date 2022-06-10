@@ -444,3 +444,4 @@ closer - ближе
 find some closure - найти какое-то закрытие
 genuine - подлинный
 ended - закончился
+i got a handed - я получил руку
