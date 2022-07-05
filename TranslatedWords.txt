@@ -492,3 +492,4 @@ integra - интегра
 betrayal - предательство
 broly - Броли
 barbarism - варварство
+assumptious - самонадеянный
