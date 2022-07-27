@@ -645,3 +645,4 @@ translating uworld - перевод uworld
 behold - вот
 resurrection - воскрешение
 adventurer - авантюрист
+progenitor - прародитель
