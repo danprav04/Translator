@@ -614,3 +614,4 @@ exasperated - раздраженный
 
 garlic - чеснок
 seal - печать
+frustrating - раздражающий
