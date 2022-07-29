@@ -695,3 +695,8 @@ translate - перевести
 
 translate something - перевести что-нибудь
 translate the word - перевести слово
+
+
+29/07/2022 17:25:25
+
+translate the word - перевести слово
