@@ -676,3 +676,4 @@ refugees - беженцы
 
 number - количество
 lumber - пиломатериалы
+slumber - дремать
