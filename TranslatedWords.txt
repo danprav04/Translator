@@ -712,3 +712,4 @@ mdha game - мдха игра
 
 translate the word - перевести слово
 translate the word - перевести слово
+it's a game - это игра
