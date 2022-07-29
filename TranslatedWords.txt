@@ -694,3 +694,4 @@ translate - перевести
 29/07/2022 17:23:37
 
 translate something - перевести что-нибудь
+translate the word - перевести слово
