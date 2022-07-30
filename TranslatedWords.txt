@@ -750,3 +750,4 @@ translate the word - перевести слово
 maryland - Мэриленд
 snarling - рычание
 vulnerable - уязвимый
+vulnerable - уязвимый
