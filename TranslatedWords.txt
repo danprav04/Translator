@@ -813,3 +813,4 @@ engulf - поглощать
 
 racism - расизм
 restoration - восстановление
+frustration - разочарование
