@@ -817,3 +817,4 @@ frustration - разочарование
 children - дети
 q during session - д во время сеанса
 view during session - просмотр во время сеанса
+slimed out - вылизанный
