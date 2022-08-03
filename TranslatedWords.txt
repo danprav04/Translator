@@ -818,3 +818,8 @@ children - дети
 q during session - д во время сеанса
 view during session - просмотр во время сеанса
 slimed out - вылизанный
+
+
+03/08/2022 21:55:08
+
+snot - сопли
