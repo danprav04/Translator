@@ -815,3 +815,4 @@ racism - расизм
 restoration - восстановление
 frustration - разочарование
 children - дети
+q during session - д во время сеанса
