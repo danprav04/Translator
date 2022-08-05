@@ -861,3 +861,4 @@ condescending - снисходительный
 
 best translation - лучший перевод
 condescending - снисходительный
+sincerely - С уважением
