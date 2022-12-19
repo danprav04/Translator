@@ -43,8 +43,11 @@ def main():
 				thread.start_new_thread( push_to_git, ( ) )
 
 				# add to sql database
-				db.add_translation(now.strftime("%d/%m/%Y %H:%M:%S"), orig, translated)
-				print("Translation added to database")
+				try:
+					db.add_translation(now.strftime("%d/%m/%Y %H:%M:%S"), orig, translated)
+					print("Translation added to database")
+				except Exception:
+					print("Couldn't add to database")
 
 				# Show Window With The Translation
 				ctypes.windll.user32.MessageBoxW(0, f"{orig}\n{translated}", "Translator", 0)
